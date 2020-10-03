@@ -1,0 +1,13 @@
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\bin\Debug\netcoreapp3.1\s2t6.exe
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\bin\Debug\netcoreapp3.1\s2t6.deps.json
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\bin\Debug\netcoreapp3.1\s2t6.runtimeconfig.json
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\bin\Debug\netcoreapp3.1\s2t6.runtimeconfig.dev.json
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\bin\Debug\netcoreapp3.1\s2t6.dll
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\bin\Debug\netcoreapp3.1\s2t6.pdb
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.csprojAssemblyReference.cache
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.AssemblyInfoInputs.cache
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.AssemblyInfo.cs
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.csproj.CoreCompileInputs.cache
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.dll
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.pdb
+C:\рабочая папка\c#\207ShestakovaEkaterina_HW2\s2t6\obj\Debug\netcoreapp3.1\s2t6.genruntimeconfig.cache

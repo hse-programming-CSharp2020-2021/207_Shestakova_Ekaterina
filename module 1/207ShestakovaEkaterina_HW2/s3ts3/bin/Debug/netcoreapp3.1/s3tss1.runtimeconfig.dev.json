@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\shest\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\shest\\.nuget\\packages"
+    ]
+  }
+}
